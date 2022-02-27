@@ -12,3 +12,4 @@ slonce swieci
 * poprawiam poprzednie zdanie
 * ladna dzis niedziela
 * slonce swieci
+* trzeba isc na spacer
