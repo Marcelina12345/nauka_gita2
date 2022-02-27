@@ -11,3 +11,4 @@ ladna dzis niedziela
 slonce swieci
 * poprawiam poprzednie zdanie
 * ladna dzis niedziela
+* slonce swieci
