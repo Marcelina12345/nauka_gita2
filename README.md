@@ -7,4 +7,5 @@ dsddssddssdsddsds
 desc
 lalalals
 kkjsdljlsjlkjsdkljdskljdklsjdksljdkls
-ladna dzis niedziela 
+ladna dzis niedziela
+slonce swieci
